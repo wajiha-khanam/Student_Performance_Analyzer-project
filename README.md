@@ -1,4 +1,4 @@
-# Student_Performance_Analyzer-project
+# Student_Performance_Analyzer_project
 
 # 🎓 Student_Performance_Analyzer
 This project is a comprehensive analysis of student performance using **Python**, **SQL**, and **Statistics**. It combines data extraction, data analysis, and statistical interpretation to derive insights from a dataset of student records.
