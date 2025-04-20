@@ -19,7 +19,7 @@ from cte
 order by total_marks desc;
 -- By above results we are able to get information that parental level of education is not affecting students performance.
 
--- 3.Determing students who have secured greater than average in all subject
+-- 3.Determing students who have secured greater than average in all subject.
 select * from students
 where Math_Score>(select avg(Math_Score) from students)
 and 
